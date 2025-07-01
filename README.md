@@ -1,3 +1,38 @@
+# 🛒 Grocery Store – React JS Project
+
+This is a simple, responsive grocery store front-end built using **React.js**. It displays a catalog of grocery items with their images, names, and prices. Users can browse products just like in a real online grocery site.
+
+---
+
+## 🔧 Tech Stack
+
+- **React.js**
+- **JavaScript (ES6+)**
+- **HTML5 & CSS3**
+-  **Bootstrap/Tailwind CSS*8
+
+---
+
+## 🚀 Features
+
+- 🛍️ Product listing UI
+- 📱 Fully responsive design
+- ⚛️ React component-based architecture
+-  Add to Cart functionality, Routing, Filtering
+
+---
+
+## 📂 Project Structure
+Project/
+│
+├── public/
+├── src/
+│ ├── components/
+│ ├── App.js
+│ └── index.js
+├── package.json
+└── README.md
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
